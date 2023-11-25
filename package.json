@@ -1,5 +1,5 @@
 {
-  "name": "starbin",
+  "name": "bytebin",
   "version": "1.0.0",
   "description": "A hastebin-compatible paste site running on Cloudflare Workers.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LostLuma/starbin.git"
+    "url": "git+https://github.com/alexraskin/bytebin.git"
   },
-  "author": "Lilly Rose Berner <lilly@lostluma.dev> (https://lostluma.dev)",
+  "author": "Alex Raskin <root@alexraskin.com> (https://alexraskin.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LostLuma/starbin/issues"
+    "url": "https://github.com/alexraskin/bytebin/issues"
   },
-  "homepage": "https://starb.in",
+  "homepage": "https://bytebin.dev",
   "devDependencies": {
     "@cloudflare/workers-types": "^3.10.0",
     "prettier": "^2.2.1",

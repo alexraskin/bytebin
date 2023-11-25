@@ -1,4 +1,4 @@
-# Starbin
+# Bytebin
 
 A hastebin-compatible paste site running on Cloudflare Workers / Pages.
 
