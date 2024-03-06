@@ -5,16 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "wrangler pages deploy ./static"
+    "deploy": "wrangler pages deploy ./static",
+    "dev": "wrangler pages dev --compatibility-date=2023-01-01 ./static"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexraskin/bytebin.git"
+    "url": "git+https://github.com/alexraskin/hastebin.git"
   },
   "author": "Alex Raskin <root@alexraskin.com> (https://alexraskin.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexraskin/bytebin/issues"
+    "url": "https://github.com/alexraskin/hastebin/issues"
   },
   "homepage": "https://haste.00z.sh",
   "devDependencies": {
