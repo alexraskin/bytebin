@@ -1,4 +1,3 @@
-# Bytebin
+# haste.00z.sh
 
-Bytebin (hastebin-compatible) paste site running on Cloudflare Pages / Workers
-
+haste.00z.sh (hastebin-compatible) paste site running on Cloudflare Pages / Workers

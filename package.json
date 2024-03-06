@@ -1,5 +1,5 @@
 {
-  "name": "bytebin",
+  "name": "hastebin",
   "version": "1.0.0",
   "description": "A hastebin-compatible paste site running on Cloudflare Workers.",
   "main": "index.js",
@@ -16,10 +16,10 @@
   "bugs": {
     "url": "https://github.com/alexraskin/bytebin/issues"
   },
-  "homepage": "https://bytebin.dev",
+  "homepage": "https://haste.00z.sh",
   "devDependencies": {
-    "@cloudflare/workers-types": "^3.10.0",
-    "prettier": "^2.2.1",
-    "wrangler": "^2.0.5"
+    "@cloudflare/workers-types": "^4.20240222.0",
+    "prettier": "^3.2.5",
+    "wrangler": "^3.31.0"
   }
 }
